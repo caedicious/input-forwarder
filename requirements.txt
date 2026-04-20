@@ -1,0 +1,8 @@
+# PC1 (sender.pyw) dependencies.
+# PC2 (receiver.pyw) needs no pip packages — stdlib + ctypes only.
+pynput==1.8.1
+pystray
+Pillow
+
+# Optional — only needed if building standalone .exe via build.bat
+pyinstaller
