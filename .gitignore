@@ -14,6 +14,9 @@ build/
 dist/
 *.spec
 
+# Inno Setup output
+installer/Output/
+
 # Runtime config (generated per-machine)
 input_forwarder_config.json
 input_forwarder_receiver.json
